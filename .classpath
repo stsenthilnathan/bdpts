@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Work/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Work/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Work/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Work/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Work/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Work/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Work/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Work/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Work/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/cucumber-core-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/cucumber-java-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/cucumber-junit-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/cucumber-reporting-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/gherkin-13.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/junit-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/spring-beans-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/spring-core-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/spring-jcl-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Work/Cucumber/spring-web-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/docs/json-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/docs/json-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/docs/rest-assured-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/docs/rest-assured-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/docs/rest-assured-common-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/docs/rest-assured-common-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/docs/xml-path-4.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/docs/xml-path-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps.zip"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Work/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
